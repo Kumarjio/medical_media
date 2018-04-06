@@ -1,0 +1,9 @@
+[07-Oct-2016 15:51:27 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_area() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Vendor.php on line 49
+[07-Oct-2016 15:54:11 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_category() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Product.php on line 31
+[07-Oct-2016 15:54:52 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_category() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Product.php on line 31
+[07-Oct-2016 15:54:53 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_category() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Product.php on line 31
+[07-Oct-2016 15:54:54 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_category() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Product.php on line 31
+[07-Oct-2016 16:11:37 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_category() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Product.php on line 31
+[07-Oct-2016 16:13:22 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_category() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Product.php on line 31
+[07-Oct-2016 16:13:27 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_category() on a non-object in /home/walker1989/public_html/unicomm/application/controllers/Product.php on line 31
+[27-Oct-2016 17:32:58 Asia/Kolkata] PHP Fatal error:  Call to a member function get_all_area() on a non-object in /home/walker1989/public_html/uniontrading/application/controllers/Vendor.php on line 49
